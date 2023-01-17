@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    padding: 30px;
+    border: 1px solid red;
+}
+
+.f {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: none;
+}
+
+#mul,
+div {
+    margin: 10px;
+}
+
+section{
+    border:10px solid gainsboro;
+}
+
+#Time{
+    color:cadetblue;
+    padding:20px;
+}
